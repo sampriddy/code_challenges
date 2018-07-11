@@ -8,7 +8,7 @@ A new start up is looking for a way to reward their customers for purchases over
 
 - The company should be able to add promotions (a promotion would be something like 'Buy 10 smoothies and the 11th is free')
 - Customers need to be able to signup (opt in) to the application
-- Customers are automatically eligiable to recieve purchase credit towards any promotions being offered
+- Customers are automatically eligible to recieve purchase credit towards any promotions being offered
 - The company needs to be able to track when a customer makes a qualified purchase and apply it to the customer account
 - Customers need to be able to see their purchase tracker so they know how many have been made for a given promotion
 - Customers cannot alter their purchase tracker. It must be read only

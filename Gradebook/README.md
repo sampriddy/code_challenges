@@ -2,7 +2,7 @@
 
 ## Overview
 
-You work for an education software company that wants to create a gradebook software application to make it easier for teachers to manage assignments and grades. They want the application to also act as a syllabys and up-to-date progress report for students and parents.
+You work for an education software company that wants to create a gradebook software application to make it easier for teachers to manage assignments and grades. They want the application to also act as a syllabus and up-to-date progress report for students and parents.
 
 ## Business Rules
 
